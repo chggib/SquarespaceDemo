@@ -9,11 +9,11 @@
   </head>
 
   <body>
-    <p> "Hello World" </p>
     <div class="container">
 
       <header class="header">
         <h1 class="site-title">
+		  <p> "Hello World" </p>
           <a href="/">
             Developer Platform Beginner Tutorial
           </a>
